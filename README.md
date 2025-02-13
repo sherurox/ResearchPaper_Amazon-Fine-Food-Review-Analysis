@@ -2,9 +2,6 @@
 
 This repository contains the source code, dataset references, and analysis for the research paper "Amazon Fine Food Review Analysis", published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET), Vol. 11, Issue X, October 2023. The study focuses on sentiment analysis, text mining, and predictive modeling of Amazon Fine Food reviews using machine learning techniques.<br>
 
-📄 Research Paper Link<br>
-📌 DOI: 10.22214/ijraset.2023.55930<br>
-
 # 📜 Abstract
 
 The project aims to analyze over 568,454 Amazon Fine Food reviews spanning from October 1999 to October 2012, extracting insights using natural language processing (NLP), sentiment analysis, topic modeling, and predictive modeling.<be>
@@ -46,7 +43,7 @@ Linear Regression RMSE: 1.0936<br>
 SVM Sentiment Analysis Accuracy: 85.2%<br>
 Naïve Bayes Sentiment Analysis Accuracy: 78.4%<br>
 
-#📚 References
+# 📚 References
 
 S. Kapadia – "Topic Modelling in Python: Latent Dirichlet Allocation (LDA)"<br>
 Y. Berdugo – "Review Rating Prediction: A Combined Approach"<br>
@@ -57,6 +54,9 @@ Liu, Y. – "Word of Mouth for Movies: Its Dynamics and Impact on Box Office Rev
 This research was conducted by Shreyas Khandale (me), <br>
 Prathamesh Patil (https://github.com/PrathameshPatil547), and  <br>
 Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023. <br>
+
+🔗 Paper Link: Predicting Credit Card Defaults with Machine Learning <br>
+[https://www.ijraset.com/best-journal/predicting-credit-card-defaults-with-machine-learning](https://www.ijraset.com/best-journal/amazon-fine-food-review-analysis)
 
 # 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.<br>
