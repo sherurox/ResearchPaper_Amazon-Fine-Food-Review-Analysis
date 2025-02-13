@@ -14,14 +14,22 @@ Machine Learning Models: Naïve Bayes, Support Vector Machines (SVM), and Linear
 Topic Modeling: Latent Dirichlet Allocation (LDA) to categorize common themes in the reviews.<br>
 Evaluation Metrics: Achieved a Root Mean Square Error (RMSE) of 1.0936, showcasing strong predictive power.<br>
 
-Figure 1: Text analysis of reviews<br>
-<img width="403" alt="image" src="https://github.com/user-attachments/assets/5cd6c2d5-a262-426a-ace2-cc709d8b869e" /><br>
+## 📊 Visualizations
 
-Figure 2:  A histogram for Text length and summary length<br>
-<img width="518" alt="image" src="https://github.com/user-attachments/assets/ab85d3df-825f-46b4-86e4-4f24046b4380" /><br>
+<p align="center">
+    <b>Figure 1: Text analysis of reviews</b><br>
+    <img src="https://github.com/user-attachments/assets/5cd6c2d5-a262-426a-ace2-cc709d8b869e" width="500"/>
+</p>
 
-Figure 3:  Violin plots for the relationship between scores and summary/text lengths<br>
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/c5af9bbf-ac68-4269-9f5b-d321e0f9dc0e" /><br>
+<p align="center">
+    <b>Figure 2: A histogram for Text length and summary length</b><br>
+    <img src="https://github.com/user-attachments/assets/ab85d3df-825f-46b4-86e4-4f24046b4380" width="500"/>
+</p>
+
+<p align="center">
+    <b>Figure 3: Violin plots for the relationship between scores and summary/text lengths</b><br>
+    <img src="https://github.com/user-attachments/assets/c5af9bbf-ac68-4269-9f5b-d321e0f9dc0e" width="500"/>
+</p>
 
 # 📊 Results
 Sentiment Distribution<br>
