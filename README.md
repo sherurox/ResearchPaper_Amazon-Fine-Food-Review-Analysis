@@ -14,7 +14,7 @@ Machine Learning Models: Naïve Bayes, Support Vector Machines (SVM), and Linear
 Topic Modeling: Latent Dirichlet Allocation (LDA) to categorize common themes in the reviews.<br>
 Evaluation Metrics: Achieved a Root Mean Square Error (RMSE) of 1.0936, showcasing strong predictive power.<br>
 
-## 📊 Visualizations
+# 📊 Visualizations
 
 <p align="center">
     <b>Figure 1: Text analysis of reviews</b><br>
