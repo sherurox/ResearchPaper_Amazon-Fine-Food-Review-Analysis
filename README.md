@@ -2,7 +2,7 @@
 
 This repository contains the source code, dataset references, and analysis for the research paper "Amazon Fine Food Review Analysis", published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET), Vol. 11, Issue X, October 2023. The study focuses on sentiment analysis, text mining, and predictive modeling of Amazon Fine Food reviews using machine learning techniques.<br>
 
-# 📜 Abstract
+## 📜 Abstract
 
 The project aims to analyze over 568,454 Amazon Fine Food reviews spanning from October 1999 to October 2012, extracting insights using natural language processing (NLP), sentiment analysis, topic modeling, and predictive modeling.<be>
 
@@ -14,7 +14,7 @@ Machine Learning Models: Naïve Bayes, Support Vector Machines (SVM), and Linear
 Topic Modeling: Latent Dirichlet Allocation (LDA) to categorize common themes in the reviews.<br>
 Evaluation Metrics: Achieved a Root Mean Square Error (RMSE) of 1.0936, showcasing strong predictive power.<br>
 
-# 📊 Visualizations
+## 📊 Visualizations
 
 <p align="center">
     <b>Figure 1: Text analysis of reviews</b><br>
@@ -31,34 +31,46 @@ Evaluation Metrics: Achieved a Root Mean Square Error (RMSE) of 1.0936, showcasi
     <img src="https://github.com/user-attachments/assets/c5af9bbf-ac68-4269-9f5b-d321e0f9dc0e" width="500"/>
 </p>
 
-# 📊 Results
-Sentiment Distribution<br>
+## 📊 Results
 
-Positive Reviews: 72.5%<br>
-Negative Reviews: 15.2%<br>
-Neutral Reviews: 12.3%<br>
-<br>
-Topic Modeling (LDA extracted top topics from the reviews):<br>
-<br>
-Dog Food Reviews: ["dog", "treats", "love", "like"]<br>
-Beverages: ["tea", "coffee", "flavor", "cup"]<br>
-Snacks & Chips: ["chips", "salt", "crunchy", "spicy"]<br>
-Amazon Service & Pricing: ["order", "price", "box", "delivery"]<br>
-<br>
-Model Performance
-<br>
-Linear Regression RMSE: 1.0936<br>
-SVM Sentiment Analysis Accuracy: 85.2%<br>
-Naïve Bayes Sentiment Analysis Accuracy: 78.4%<br>
+### Sentiment Distribution
 
-# 📚 References
+| Sentiment Type  | Percentage |
+|----------------|------------|
+| **Positive Reviews** | 72.5% |
+| **Negative Reviews** | 15.2% |
+| **Neutral Reviews**  | 12.3% |
+
+---
+
+### Topic Modeling (LDA Extracted Topics)
+
+| Topic Category              | Top Keywords                     |
+|-----------------------------|---------------------------------|
+| **Dog Food Reviews**        | "dog", "treats", "love", "like" |
+| **Beverages**               | "tea", "coffee", "flavor", "cup" |
+| **Snacks & Chips**          | "chips", "salt", "crunchy", "spicy" |
+| **Amazon Service & Pricing**| "order", "price", "box", "delivery" |
+
+---
+
+### Model Performance
+
+| Model                        | Performance Metric |
+|------------------------------|-------------------|
+| **Linear Regression RMSE**   | 1.0936 |
+| **SVM Sentiment Analysis Accuracy** | 85.2% |
+| **Naïve Bayes Sentiment Analysis Accuracy** | 78.4% |
+
+
+## 📚 References
 
 S. Kapadia – "Topic Modelling in Python: Latent Dirichlet Allocation (LDA)"<br>
 Y. Berdugo – "Review Rating Prediction: A Combined Approach"<br>
 Chevalier, J. A., & Mayzlin, D. – "Effect of Word of Mouth on Sales: Online Book Reviews"<br>
 Liu, Y. – "Word of Mouth for Movies: Its Dynamics and Impact on Box Office Revenue"<br>
 
-# Authors & Acknowledgments
+## Authors & Acknowledgments
 This research was conducted by Shreyas Khandale (me), <br>
 Prathamesh Patil (https://github.com/PrathameshPatil547), and  <br>
 Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023. <br>
@@ -66,7 +78,7 @@ Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023
 🔗 Paper Link: Predicting Credit Card Defaults with Machine Learning <br>
 [https://www.ijraset.com/best-journal/predicting-credit-card-defaults-with-machine-learning](https://www.ijraset.com/best-journal/amazon-fine-food-review-analysis)
 
-# 📄 License
+## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.<br>
 
 
